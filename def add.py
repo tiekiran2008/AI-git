@@ -19,3 +19,8 @@ def div():
                 a=(int(input("Enter a: ")))
                 b=(int(input("Enter b: ")))
                 print(a/b)
+def mod():               
+                print("Modulus of two numbers")
+                a=(int(input("Enter a: ")))
+                b=(int(input("Enter b: ")))
+                print(a%b)
